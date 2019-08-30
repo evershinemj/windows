@@ -13,3 +13,6 @@ this can be configured in the *search tab* popping up after ctrl+f is pressed
 
 # quick access
 > when **search location** is `quick access`, all folders in `quick access` will be searched recursively(if **search method** is `search in all subdirectories`)
+
+# find specific files after ctrl+o
+> note that you can use date info(especially today) to find specific files
