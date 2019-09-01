@@ -18,3 +18,32 @@ this can be configured in the *search tab* popping up after ctrl+f is pressed
 > note that you can use date info(especially today) to find specific files
 >
 > clicking `modification date` alters the time order
+
+# the alt key
+> the **alt** key plays an *essential* role in navigating to menu items.  
+> in *file explorer*, **press the alt key**, and the pay close attention to the **shortcut letters popping up**.
+## important
+- **alt+f**(file)
+- **alt+v**(view)
+alt+<key> can also be pressed *one by one*.
+### alt+f
+after pressing alt+f, you can open a folder frequently used by additionally pressing a number, as shown in the panel popping up.
+this is super useful to determine the prerequisite for search(namely, specifying a location).
+alt+f -> <number> is the window version shortcut which is the counterpart of cmd+shift+<key>(such as cmd+shift+d for desktop) on mac.
+### alt+v
+after pressing alt+v, four menus will pop up:
+1. panel
+2. layout
+3. current view
+4. show/hide
+here are shortcuts for three of them:
+- panel
+p: open **preview panel**
+d: open **detail panel**
+-current view
+o: open **ordering method**
+- show/hide
+ht: **toggle item checkbox**
+hf: **toggle file extension**
+hh: **toggle hidden files**
+hs: **hide selected items**
