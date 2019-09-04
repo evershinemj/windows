@@ -47,3 +47,5 @@ ht: **toggle item checkbox**
 hf: **toggle file extension**
 hh: **toggle hidden files**
 hs: **hide selected items**
+# best layout for search
+`detail` is the best layout for search, as it shows path info
