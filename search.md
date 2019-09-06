@@ -22,6 +22,9 @@ this can be configured in the *search tab* popping up after ctrl+f is pressed
 > clicking the inverse caret on the right of `modification date` offers more 
   options to sort files according to time order
 
+> **note that this works both in the dialog invoked by ctrl+o and
+> in file explorer**
+
 # the alt key
 > the **alt** key plays an *essential* role in navigating to menu items.  
 > in *file explorer*, **press the alt key**, and the pay close attention to the **shortcut letters popping up**.
