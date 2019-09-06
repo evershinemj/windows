@@ -17,7 +17,10 @@ this can be configured in the *search tab* popping up after ctrl+f is pressed
 # find specific files after ctrl+o
 > note that you can use date info(especially today) to find specific files
 >
-> clicking `modification date` alters the time order
+> clicking `modification date` reverses time order
+
+> clicking the inverse caret on the right of `modification date` offers more 
+  options to sort files according to time order
 
 # the alt key
 > the **alt** key plays an *essential* role in navigating to menu items.  
