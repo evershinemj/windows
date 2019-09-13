@@ -5,4 +5,3 @@ file explorer -> **查看** -> **预览窗格**
 # supported file types
 - text files, including java files, bat files, etc.
 - excel files
-- zip files
