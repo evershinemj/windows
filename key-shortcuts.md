@@ -6,3 +6,5 @@ permanently delete
 remove to trash bin
 # C-d
 equivalent to `delete`
+# Win-S-m
+open minimized window
