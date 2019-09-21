@@ -53,5 +53,10 @@ ht: **toggle item checkbox**
 hf: **toggle file extension**
 hh: **toggle hidden files**
 hs: **hide selected items**
+
 # best layout for search
 `detail` is the best layout for search, as it shows path info
+
+# search by typing directly, without ctrl-f
+- note that you can simply type what you want to search for, without ctrl-f. so windows supports internally what listary does in this aspect.
+- this feature also works in task manager.

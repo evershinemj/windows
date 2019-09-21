@@ -5,3 +5,5 @@ file explorer -> **查看** -> **预览窗格**
 # supported file types
 - text files, including java files, bat files, etc.
 - excel files
+- jpg files
+- mp4 files(picture preview)
