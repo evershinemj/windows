@@ -18,7 +18,7 @@ works fine, regardless of how many numbers of cells are merged for source and de
 works
 ### many to many
 - **doesn't work** if the number of the unmerged doesn't match the number of cells of the merged if it were unmerged
-- works if the number of the unmerged does match the number of cells of the merged if it were unmerged
+- works if the number of the unmerged does match the number of cells of the merged if it were unmerged; in this case, the merged cells automatically unmerge
 
 ## merged to unmerged
 ### one to one
