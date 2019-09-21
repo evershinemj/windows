@@ -7,3 +7,5 @@ file explorer -> **查看** -> **预览窗格**
 - excel files
 - jpg files
 - mp4 files(picture preview)
+# resize the preview window
+the preview window can be resized. when previewing excel files, it's especially helpful to expand the preview window
