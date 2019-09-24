@@ -1,0 +1,46 @@
+聚焦到搜索框：Windows键
+search for:
+    控制面板
+    记事本
+    画图（Alt-F Alt-X退出)
+    文件资源管理器
+    powershell
+    visual studio code
+    visual studio
+    eclipse
+    notepad++
+    文本文件
+
+不小心关闭文件资源浏览器解决方法：
+按住ctrl+shift，再按esc，弹出任务管理器
+alt+F alt+N 运行新任务：C:\Windows\explorer.exe
+
+Windows + D: hide / show all
+Windows + E: open file explorer
+Windows + I: open settings
+
+Windows + tab: toggle show all windows
+alt + tab: like cmd + tab on Mac
+	note that alt + tab can be used to switch focus among windows
+	best practice: use win + left and win + right to align two windows,
+				   then use alt + tab to switch focus between them
+				   
+in file explorer:
+alt + up: move to parent folder
+alt + left: move towards history folder
+alt + right: move back
+
+in browser:
+<Space> = <Next>
+
+ctrl + R: reload page, consistent with cmd + R on mac, system-wide shortcut
+				   
+mingw: minimalist GNU for Windows
+
+set default program:
+    use win + I to open settings, and choose application -> default application
+
+Win键+Shift+数字启动锁定到任务栏中的由该数字所表示位置处的程序的新实例
+Win键+分号：调出 Emoji 表情
+
+Alt+拖曳，创建快捷方式。
