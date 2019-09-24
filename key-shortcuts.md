@@ -8,3 +8,5 @@ remove to trash bin
 equivalent to `delete`
 # Win-S-m
 open minimized window
+# C-y
+redo; note that it's a system-wide shortcut
