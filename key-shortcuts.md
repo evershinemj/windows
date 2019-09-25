@@ -11,4 +11,4 @@ open minimized window
 # C-y
 redo; note that it's a system-wide shortcut
 # Win-;
-open emoji palette
+toggle emoji palette
