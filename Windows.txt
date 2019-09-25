@@ -41,6 +41,5 @@ set default program:
     use win + I to open settings, and choose application -> default application
 
 Win键+Shift+数字启动锁定到任务栏中的由该数字所表示位置处的程序的新实例
-Win键+分号：调出 Emoji 表情
 
 Alt+拖曳，创建快捷方式。
