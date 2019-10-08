@@ -9,7 +9,10 @@ this can be configured in the *search tab* popping up after ctrl+f is pressed
 
 # what search does
 - search in file explorer basically functions like a combination of `find` and `grep`. note that **file content** can be used for searching files.
-- search probably processes the input as pattern '\b + input'
+- search probably processes the input as pattern **'\b + input'**.
+
+# search result
+- search result is ==highlighted yellow==
 
 # hot search
 > note that the way windows searches is `hot search`, or `incremental search`, namely:
