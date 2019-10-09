@@ -15,6 +15,8 @@ this can be configured in the *search tab* popping up after ctrl+f is pressed
 - non-word chars(\W in regex) are ignored
 - each keyword(\w+) is prepended by \b(word boundary)
 - if all the keywords have a match, each keyword is highlighted 
+- the order of keywords doesn't matter
+- besides best-matches, some partial matches are also displayed(e.g. when there are several keywords, files which match only one keyword might also be displayed)
 
 # search result
 - search result is ==highlighted yellow==
