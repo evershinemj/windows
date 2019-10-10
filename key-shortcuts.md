@@ -29,3 +29,7 @@ toggle emoji palette
 # Win-+
 
 magnifier
+
+# alt-enter
+
+open properties
