@@ -43,3 +43,6 @@ set default program:
 Win键+Shift+数字启动锁定到任务栏中的由该数字所表示位置处的程序的新实例
 
 Alt+拖曳，创建快捷方式。
+
+notepad:
+leftmost asterisk indicates modification
