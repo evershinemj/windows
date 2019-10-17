@@ -30,6 +30,6 @@ toggle emoji palette
 
 magnifier
 
-# alt-enter
+# alt-enter(alt-doubleclick)
 
 open properties
