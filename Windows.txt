@@ -43,6 +43,7 @@ set default program:
 Win键+Shift+数字启动锁定到任务栏中的由该数字所表示位置处的程序的新实例
 
 Alt+拖曳，创建快捷方式。
+鼠标右键拖曳（桌面上）：opens a popup menu, where you can choose to copy file/folder or create a shortcut
 
 notepad:
 leftmost asterisk indicates modification
