@@ -47,3 +47,6 @@ Alt+拖曳，创建快捷方式。
 
 notepad:
 leftmost asterisk indicates modification
+
+double click on menu bar:
+toggle maximize the window
